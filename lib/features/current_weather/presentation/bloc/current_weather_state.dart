@@ -1,4 +1,4 @@
-part of 'current_weather_cubit.dart';
+part of 'current_weather_bloc.dart';
 
 @immutable
 abstract class CurrentWeatherState extends Equatable{
@@ -28,3 +28,4 @@ class Error extends CurrentWeatherState {
   @override
   List<Object> get props => [message];
 }
+
