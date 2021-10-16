@@ -12,6 +12,6 @@ get-it - Dependency Injection\
 Shared Preferences - Cache server request\
 Internet Connection Checker - Is device offline/online\
 Dartz - Functionally dart\
-Equatable - Compare objects\
+Equatable - Compare objects
 
-Clean architecture pattern with Use Case\
+Clean architecture pattern with Use Case
