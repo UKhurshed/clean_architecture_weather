@@ -4,7 +4,7 @@ Clean architecture Flutter application
 
 architecture-proposal.png
 
-The API was used for this project https://www.weatherapi.com\
+The API was used for this project https://www.weatherapi.com \
 Used dependencies:\
 Flutter bloc - State management\
 http - HTTP client\
