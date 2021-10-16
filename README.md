@@ -1,16 +1,6 @@
 # clean_architecture_weather
 
-A new Flutter project.
+Clean architecture Flutter application
 
-## Getting Started
+https://github.com/ResoCoder/flutter-tdd-clean-architecture-course/blob/master/architecture-proposal.png![image](https://user-images.githubusercontent.com/26713598/137583696-cfde0efb-51fc-4acb-9726-29273484dd90.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
